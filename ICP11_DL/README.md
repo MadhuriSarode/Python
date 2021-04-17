@@ -12,4 +12,4 @@ Wiki Links for Web ICPs
 
 ICP11 Wiki: https://github.com/MadhuriSarode/Python/wiki/ICP11-:--DeepLearning_Lesson4-:-ImageClassification-with-CNN
 
-Video link :
+Video link : https://drive.google.com/file/d/1oTsrdlHn2mmxBpKNIQPR_MqI85fAg4oI/view?usp=sharing
