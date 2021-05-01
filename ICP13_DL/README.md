@@ -2,7 +2,7 @@
 
 Python and DL
 
-To Do: LSTM (Types of ANNs and Recurrent Neural Network.)
+To Do: Autoencoders
 
 Student Name: Madhuri Sarode
 
@@ -10,6 +10,6 @@ Instructor Name: Saria Goudarzvand
 
 Wiki Links for Web ICPs
 
-ICP12 Wiki: https://github.com/MadhuriSarode/Python/wiki/ICP12-:--DeepLearning_Lesson5-:-LSTM
+ICP13 Wiki: https://github.com/MadhuriSarode/Python/wiki/ICP13-:--DeepLearning_Lesson-6:-Autoencoders
 
-Video link : https://drive.google.com/file/d/1VRWP2pSF5jajsAxcma2AYGzIZzGWOvNq/view?usp=sharing
+Video link : https://drive.google.com/file/d/1aiyipYet9l9rIEf9xj_fvE4abb5b5Ted/view?usp=sharing
